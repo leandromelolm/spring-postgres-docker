@@ -1,1 +1,5 @@
 /backend/.idea/
+/backend/target/
+/project.iml
+**/workspace.xml
+
